@@ -69,7 +69,7 @@ The Power BI dashboard provides insights into:
 
 Add your Power BI dashboard screenshot here.
 
-![Customer Shopping Dashboard](images/dashboard.png)
+![Customer Shopping Dashboard](Customer Behaviour dashboard.png)
 
 ## Results & Insights
 
