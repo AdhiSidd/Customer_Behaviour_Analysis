@@ -66,8 +66,7 @@ The Power BI dashboard provides insights into:
 - Customer purchasing behavior
 
 ### Dashboard Preview
-
-Add your Power BI dashboard screenshot here.
+Dashboard made in POWERBI
 
 ## Dashboard Preview
 
