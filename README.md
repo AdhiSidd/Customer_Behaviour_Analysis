@@ -83,19 +83,15 @@ The analysis helps identify:
 
 ## Project Structure
 
-    Customer-Shopping-Analysis/
+    Customer_Behaviour_Analysis/
     │
     ├── README.md
-    ├── data/
-    │   └── customer_shopping.csv
-    ├── notebooks/
-    │   └── customer_shopping_analysis.ipynb
-    ├── sql/
-    │   └── customer_shopping_analysis.sql
-    ├── powerbi/
-    │   └── Customer_Shopping_Dashboard.pbix
-    └── images/
-        └── dashboard.png
+    ├── customer_shopping.csv
+    ├── customer_shopping_analysis.ipynb
+    ├── customer_shopping_analysis.sql
+    ├── Customer Behaviour dashboard.pbix
+    ├── Customer Behaviour dashboard.png
+    └── Customer Behaviour Analysis.pptx
 
 ## How to Run
 
