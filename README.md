@@ -65,8 +65,6 @@ The Power BI dashboard provides insights into:
 - Popular product sizes
 - Customer purchasing behavior
 
-### Dashboard Preview
-Dashboard made in POWERBI
 
 ## Dashboard Preview
 
