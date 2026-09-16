@@ -82,17 +82,18 @@ The analysis helps identify:
 - Overall sales performance
 
 ## Project Structure
-
+    
     Customer_Behaviour_Analysis/
     │
-    ├── README.md
-    ├── customer_shopping.csv
-    ├── customer_shopping_analysis.ipynb
-    ├── customer_shopping_analysis.sql
-    ├── Customer Behaviour dashboard.pbix
-    ├── Customer Behaviour dashboard.png
-    └── Customer Behaviour Analysis.pptx
-
+    ├── Customer Behaviour Dashboard.pbix          # Power BI dashboard
+    ├── Customer Behaviour dashboard.png           # Dashboard preview
+    ├── Customer-Shopping-Behavior-Analysis.pptx   # Project presentation
+    ├── Customer_Shopping_Behaviour_Analysis.ipynb # Python data cleaning & EDA
+    ├── Customer_behaviour.sql                     # SQL analysis queries
+    ├── customer_shopping_behavior.csv             # Dataset
+    ├── LICENSE                                     # Project license
+    └── README.md                                   # Project documentation
+    
 ## How to Run
 
 1. Download or clone this repository.
